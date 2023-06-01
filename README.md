@@ -1,10 +1,10 @@
 # Spotify-Clone
 The project is a web application that replicates the look and feel of Spotify. It allows users to browse a list of songs, play and pause music, and provides a similar user interface to Spotify. The project is built using HTML, CSS, and JavaScript and is deployed on Vercel. <br/>
 
-### Demo-
-A live demo of the Spotify Clone project can be found here. <br/>
+### Demo
+A live demo of the Spotify Clone project can be found here- https://spotify-clone-phi-three.vercel.app/ <br/>
 
-### Features-
+### Features
 * Browse a list of songs with album artwork and track information. <br/>
 * Play and pause music with basic playback controls. <br/>
 * Spotify-like user interface with a responsive design. <br/>
